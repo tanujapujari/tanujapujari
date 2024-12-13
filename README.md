@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/tanujapujari/tanujapujari/blob/main/tanuja.gif" alt="logo" width="1920" height="720" />
+  <img src="https://github.com/tanujapujari/tanujapujari/blob/main/tanuja.gif" alt="logo" width="1920" />
 </p>
 <h1 align="center">Hi 👋, I'm Tanuja Pujari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
