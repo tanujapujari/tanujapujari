@@ -2,14 +2,12 @@
   <img src="https://github.com/tanujapujari/tanujapujari/blob/main/tanuja.gif" alt="logo" width="1920" />
 </p>
 <h1 align="center">Hi 👋, I'm Tanuja Pujari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Developer</h3>
 <img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujapujari&label=Profile%20views&color=0e75b6&style=flat" alt="tanujapujari" /> </p>
 
-- 🔭 I’m currently working on **Immigration Site**
-
-- 🌱 I’m currently learning **Full Stack Java Development**
+- 🌱 I’m currently learning new skills or building new projects
 
 - 📫 How to reach me **tanujapuajri2004@gmail.com**
 
