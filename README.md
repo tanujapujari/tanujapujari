@@ -1,23 +1,109 @@
 <p align="center">
-  <img src="https://github.com/tanujapujari/tanujapujari/blob/main/tanuja.gif" alt="logo" width="1920" />
+  <img src="https://github.com/tanujapujari/tanujapujari/blob/main/tanuja.gif" alt="logo" width="100%" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Tanuja Pujari</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">💻 Software Developer | 🎨 Creator | ✨ Explorer</h3>
+
 <img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanujapujari&label=Profile%20views&color=0e75b6&style=flat" alt="tanujapujari" /> </p>
+---
 
-- 🌱 I’m currently learning new skills or building new projects
+## 🚀 About Me
 
-- 📫 How to reach me **tanujapuajri2004@gmail.com**
+I'm a 21-year-old CSE graduate from India who loves to paint and code. My goal is to blend art and technology to build creative, visually pleasing projects.  
+💬 I also love to talk about anything—feel free to reach out for a chat!  
 
-- ⚡ Fun fact **I am a good painter**
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Tools
+
+<div align="center">
+
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50" alt="Java" title="Java"/>
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" title="HTML5"/>
+</a>
+&nbsp;
+<a href="https://www.c-sharpcorner.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" title="C#.NET"/>
+</a>
+&nbsp;
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" alt="Tailwind CSS" title="Tailwind CSS"/>
+</a>
+&nbsp;
+<a href="https://github.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub" title="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50" alt="Figma" title="Figma"/>
+</a>
+&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" title="VS Code"/>
+</a>
+&nbsp;
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" height="50" alt="Postman" title="Postman"/>
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" title="JavaScript"/>
+</a>
+&nbsp;
+<a href="https://react.dev/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" alt="React.js" title="React.js"/>
+</a>
+&nbsp;
+<a href="https://www.microsoft.com/en-us/sql-server/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="MS SQL Server" title="MS SQL Server"/>
+</a>
+
+</div>
+
+
+---
+
+## 🤝 Connect
+
+Let's be friends and collaborate! 👭✨  
+- 📧 **Email:** [tanujapuajri2004@gmail.com](mailto:tanujapuajri2004@gmail.com)
+- 💼 **LinkedIn:** [Tanuja Pujari](https://www.linkedin.com/in/tanujapujari)
+- 📷 **Instagram:** [@tanujaa.aa](https://instagram.com/tanujaa.aa)
+- 🐦 **X (Twitter):** [@tanujaa_aa](https://x.com/tanujaapujari?t=LyPOv5OibvU5pnvexzO1Mw&s=08)
+
+<details>
+  <summary>💬 Want to chat?</summary>
+  <p>
+    Drop me a DM on any platform, or open an issue here on GitHub. I'm always up for a fun conversation about tech, art, or anything under the sun! 🌞🌈
+  </p>
+</details>
+
+---
+
+## 🎉 Fun Features
+
+- ✨ Enjoy the animated logo and coding GIF!
+- 🎨 I’m also a painter and share art on my socials.
+- 🤖 Occasionally build fun bots and automation scripts.
+- 👑 Girl power and creative vibes everywhere!
+- 📊 See my GitHub stats and contributions below.
+
 <p align="left">
-<a href="https://www.linkedin.com/in/tanuja-pujari-9385b0247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanuja-pujari-9385b0247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://instagram.com/tanujaa.aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanujaa.aa" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=tanujapujari&label=Profile%20views&color=ff69b4&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## 📈 GitHub Stats
+
+![Tanuja's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanujapujari&show_icons=true&theme=radical)
+
+---
+
+Thanks for visiting! 💖🚀
