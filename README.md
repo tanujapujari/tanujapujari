@@ -6,3 +6,5 @@
 ### Fun Facts:
 - ### I love to paint and do craft stuff, it helps me think more creaive.
 - ### I like coffee and coke.
+- ### Hobbies: listening to music, love watching k-dramas/action/myserty/anime movies.
+- ### Current fav anime Demon Slayer and You movie.
