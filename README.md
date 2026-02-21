@@ -1,5 +1,5 @@
 # Hey there 🤗
-### I'm Tanuja Pujari, a Full Stack Developer based in India.
+### I'm Tanuja, a Full Stack Developer based in India.
 ### I am trying to design and build something from my creativity, whatever i can imagine.
 ### My tech stack is Python, Java, tailwind, React and Javascript. I'm still learning more about python libraries and java frameworks.
 
